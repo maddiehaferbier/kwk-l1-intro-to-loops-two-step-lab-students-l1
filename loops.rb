@@ -16,8 +16,8 @@
 def kwk
   days = 2 
 #MAKES A WHILE loop 
-while days < 10 
-puts "keep coming to camp!!!"
+  while days < 10 
+  puts "keep coming to camp!!!"
   #days = days + 1
   days += 1 
   end 
