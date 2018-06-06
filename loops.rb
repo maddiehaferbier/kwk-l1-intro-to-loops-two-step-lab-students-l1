@@ -24,3 +24,4 @@ def kwk
   puts "camp is over :("
 end 
 
+kwk
