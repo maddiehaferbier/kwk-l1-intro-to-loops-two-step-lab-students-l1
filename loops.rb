@@ -15,6 +15,7 @@
 
 def kwk
   days = 2 
+  days_left = 7
 #MAKES A WHILE loop 
   while days < 10 
   puts "keep coming to camp!!!"
