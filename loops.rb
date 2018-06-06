@@ -21,5 +21,6 @@ def kwk
   #days = days + 1
   days += 1 
   end 
+  puts "camp is over :("
 end 
 
