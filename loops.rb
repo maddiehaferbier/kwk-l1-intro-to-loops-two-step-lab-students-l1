@@ -20,7 +20,7 @@ def kwk
   while days < 10 
   puts "keep coming to camp!!!"
   #days = days + 1
-  puts "you have #{days_left - 1}"
+  puts "you have #{days_left - 1} days left"
   days += 1 
   days_left -= 1
   end 
