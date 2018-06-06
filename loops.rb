@@ -22,6 +22,7 @@ def kwk
   #days = days + 1
   puts "you have #{days_left - 1}"
   days += 1 
+  days_left -= 1
   end 
   puts "camp is over :("
 end 
